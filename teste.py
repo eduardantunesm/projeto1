@@ -13,8 +13,8 @@ st.write("Legado: O caso transformou o Brasil em referência científica mundial
 
 st.image("https://linhadotempo.mpf.mp.br/www/linha-do-tempo-pr-go-docs/linha-do-tempo-pr-go-imagens/CRCN-CO%20-%206%20-%20Descontaminacao%20sendofeita%20na%20Rua%2057.jpg/@@images/a145c706-c853-4573-bf2d-cb8c56d67a2d.jpeg", caption="Trabalhos de descontaminação dos rejeitos radioativos do Césio 137 narua 57, região central de Goiânia.")
 
-st.image("https://static.dw.com/image/40458019_605.jpg")
+st.image("https://static.dw.com/image/40458019_605.jpg", caption="Cabeçote encontrado na clínica que armazenava o césio 137.")
 
-st.image("https://www.anamt.org.br/portal/wp-content/uploads/2017/09/cesio-137-2.jpg")
+st.image("https://www3.unicentro.br/petfisica/wp-content/uploads/sites/54/2015/10/Goiania_1987.10.10_corte.jpg", caption="Jornal: Goiânia ficou exposta à radiação por 16 dias.")
 
-st.video("https://www.youtube.com/watch?v=tF7G0BFXEcQ")
+st.video("https://www.youtube.com/watch?v=tF7G0BFXEcQ", caption="Notícia sobre o acidente.")
