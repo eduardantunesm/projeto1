@@ -78,8 +78,3 @@ st.write("O Brasil é o único país com mais de 200 milhões de habitantes que 
 
 st.image("https://www.brasildefato.com.br/wp-content/uploads/2024/09/image_processing20200201-29235-zzvgfd.jpg", caption="Somente a partir de 5 de outubro de 1988 a Saúde passou a ser assegurada pela Constituição como direito universal | Crédito da Foto: Arquivo Agência Senado")
 
-st.image("https://aventurasnahistoria.com.br/wp-content/uploads/posto_de_saude_em_paratinga_1_janeiro_de_2017.jpg", captions="Posto de saúde em Paratinga, na Bahia, inaugurado em 1989 / Créditos: Wikimedia Commons")
-
-st.image("https://www.gov.br/saude/pt-br/assuntos/noticias/2023/marco/historia-do-ze-gotinha-saiba-como-nasceu-o-simbolo-da-imunizacao-do-brasil/design-sem-nome-62.png/@@images/4745f5cc-fbf8-476d-b7f6-4a69be1aed11.png", caption="Zé Gotinha: símbolo da imunização brasileira - Foto: Julia Prado/MS") 
-
-st.image("https://www.youtube.com/watch?v=YJaEz2qBveY") 
