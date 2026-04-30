@@ -55,7 +55,7 @@ st.video("https://www.youtube.com/watch?v=IvdDXljIiS8")
 
 st.subheader("FATO 4: BRASIL PENTACAMPEÃO MUNDIAL (2002) ") 
 st.write("O mundo inteiro viu o Brasil no topo mais uma vez em 2002. Naquela manhã de 30 de junho em Yokohama, no Japão, a Seleção Brasileira não apenas conquistava a Copa do Mundo, mas encerrava um ciclo de superação que parecia improvável anos antes.")
-st.write("**A campanha perfeita:** Sob o comando de Luiz Felipe Scolari, o "Família Scolari", o Brasil alcançou o título com uma performance impecável: 7 jogos e 7 vitórias. Foi a consagração do talento individual a serviço de um conjunto resiliente.")
+st.write("**A campanha perfeita:** Sob o comando de Luiz Felipe Scolari, o Brasil alcançou o título com uma performance impecável: 7 jogos e 7 vitórias. Foi a consagração do talento individual a serviço de um conjunto resiliente.")
 st.write("**Os três Rs:** o trio de ataque formado por **Ronaldo, Rivaldo e Ronaldinho Gaúcho** aterrorizou as defesas adversárias, somando 15 dos 18 gols marcados pela equipe.")
 st.write("**A redenção do fenômeno:** após as dúvidas sobre seu joelho e o drama de 1998, Ronaldo marcou os dois gols da final contra a Alemanha, tornando-se o artilheiro isolado da competição com 8 gols.")
 st.write("**O capitão do tri ao penta:** Cafu tornou-se o primeiro jogador a disputar três finais consecutivas de Copa do Mundo, erguendo a taça para selar a glória eterna.") 
